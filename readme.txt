@@ -1,6 +1,6 @@
 === CustomizeMe | 3D AR CPQ product configurator ===
 Contributors: customizemeapp
-Tags: tag, tag, tag3d, 3d models, augmented reality, ar, cpq, configurator, product, variants, e-commerce, store, sales, sku, shop, view, customize, customization, customizeme, personalization
+Tags: configurator, 3d models, augmented reality, e-commerce, ar, cpq, product, variants, store, sales, sku, shop, view, customize, customization, customizeme, personalization
 Requires at least: 5.8
 Tested up to: 6.0.1
 Requires PHP: 7.1
@@ -8,26 +8,26 @@ Stable tag: 1.0.0
 License: Apache 2.0
 License URI: https://www.apache.org/licenses/LICENSE-2.0.txt
 
-Boost your sales and customer satisfaction with CustomizeMe!
+Boost your sales and customer satisfaction with CustomizeMe for WooCommerce!
 
 == Description ==
-CustomizeMe allows your customers to interact with real-time changing dynamic 3D models. With our configurator, they will be able to customize the parts, materials, and colors of your product. Built-in CPQ (Configure, Price, Quote) system gives your customers the immediate price quotation of personalized products. 
+CustomizeMe for WooCommerce allows your customers to interact with real-time changing dynamic 3D models. With our configurator, they will be able to customize the parts, materials, and colors of your product. Built-in CPQ (Configure, Price, Quote) system gives your customers the immediate price quotation of personalized products.
 
 Augmented Reality boosts their imagination about the product and increases their confidence. Our Augmented Reality feature allows them to see the customized product from every angle and even check how it suits them or fits a specific space.
 
-With CustomizeMe, for a fraction of the price, you can implement to your business, functionalities, that the biggest competitors had to pay millions for! Read more about our app here.
+With CustomizeMe for WooCommerce, for a fraction of the price, you can implement to your business, functionalities, that the biggest competitors had to pay millions for! Read more about our plugin here.
 
 == Installation ==
-1. Download the .zip file from your WooCommerce account
-2. Go to: WordPress Admin > Plugins > Add New and Upload Plugin with the file you downloaded with Choose File
+1. Download the .zip file from your WooCommerce account.
+2. Go to: WordPress Admin > Plugins > Add New and upload the downloaded plugin. 
 3. Install Now and Activate the extension.
-4. Sign in to portal.customizeme.app 
-5. Go to the integration tab
-6. Generate an access key for your store
-7. Go to: WordPress Admin > Settings > CustomizeMe
-8. Enter the access key
-9. Optionally, you can specify the pseudo selector of the element in which the CustomizeMe has to be injected
-10. Save
+4. Sign in to [portal.customizeme.app](https://portal.customizeme.app/).
+5. Go to: Integration.
+6. Generate an access key for your store.
+7. Go to: WordPress Admin > Settings > CustomizeMe.
+8. Enter the access key.
+9. You can specify the pseudo selector of the element in which the CustomizeMe has to be injected (optional).
+10. Save.
 
 == Frequently Asked Questions ==
 = Which 3D formats do you support?=
