@@ -15,7 +15,7 @@ CustomizeMe for WooCommerce allows your customers to interact with real-time cha
 
 Augmented Reality boosts their imagination about the product and increases their confidence. Our Augmented Reality feature allows them to see the customized product from every angle and even check how it suits them or fits a specific space.
 
-With CustomizeMe for WooCommerce, for a fraction of the price, you can implement to your business, functionalities, that the biggest competitors had to pay millions for! Read more about our plugin here.
+With CustomizeMe for WooCommerce, for a fraction of the price, you can implement to your business, functionalities, that the biggest competitors had to pay millions for! Read more about our plugin [here](https://customizeme.app).
 
 == Installation ==
 1. Download the .zip file from your WooCommerce account.
